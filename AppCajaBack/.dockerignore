@@ -1,0 +1,10 @@
+.vs
+bin
+obj
+*.user
+*.lock.json
+Dockerfile*
+docker-compose*
+.git
+.gitignore
+node_modules
